@@ -32,7 +32,7 @@ main {
 
 nav {
     flex: 1;
-    display: flex;
+    display: block;
     background-color: bisque;
     color: black;
     padding: 2em;
