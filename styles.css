@@ -15,6 +15,7 @@ body {
     min-height: 95vh;
     margin: 2vh 2vw;
     gap: 2vw;
+    align-items: stretch;
 }
 
 main {
