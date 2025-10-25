@@ -28,6 +28,7 @@ main {
     flex-direction: column;
     justify-content: flex-start;
     border-radius: 10px;
+    min-height: fit-content;
 }
 
 nav {
