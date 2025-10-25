@@ -10,8 +10,8 @@ html {
     padding: 0;
 }
 
-h2 {
-    color: white;
+article h2 {
+    color: black;
 }
 
 body {
