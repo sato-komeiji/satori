@@ -18,7 +18,7 @@ body {
 }
 
 main {
-    flex: 3;
+    flex: 4;
     background-color: rgb(64, 30, 94);
     color: white;
     font-size: 1.2em;
