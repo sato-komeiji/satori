@@ -8,7 +8,7 @@ article { background-color: lightcyan; width: 67%; margin: 0 auto; border: 1px s
 primary windowtitle { background-color: darkred; font-weight: bold; display: inline-block; width: 100%; color: white; }
 article windowtitle { background-color: pink; font-weight: bold; display: inline-block; width: 100%; color: darkred; }
 text { display: inline-block; padding: 0.41%; }
-a { color: black; text-decoration: none; display: block; margin-bottom: 1em; }
+a { color: black; text-decoration: none; display: inline; }
 a: hover { color: darkcyan; text-decoration: underline; }
 iframe { padding-left: 2.1%; }
 
