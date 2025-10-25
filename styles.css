@@ -108,7 +108,7 @@ a, a:visited {
     display: inline;
 }
 
-a:hover {
+a:hover, a:visited:hover {
     color: darkcyan;
     text-decoration: underline;
 }
